@@ -54,31 +54,31 @@ const ruleProviders = {
     ...ruleProviderCommon,
     behavior: "classical",
     type: "http",
-    url: "https://raw.githubusercontent.com/klierx/clash-verge-rev-rules/refs/heads/main/ruleset/ai.yaml",
+    url: "https://raw.githubusercontent.com/klierx/clash-verge-rev-rules/refs/heads/master/ruleset/ai.yaml",
   },
   github: {
     ...ruleProviderCommon,
     behavior: "classical",
     type: "http",
-    url: "https://raw.githubusercontent.com/klierx/clash-verge-rev-rules/refs/heads/main/ruleset/github.yaml",
+    url: "https://raw.githubusercontent.com/klierx/clash-verge-rev-rules/refs/heads/master/ruleset/github.yaml",
   },
   telegram: {
     ...ruleProviderCommon,
     behavior: "classical",
     type: "http",
-    url: "https://raw.githubusercontent.com/klierx/clash-verge-rev-rules/refs/heads/main/ruleset/telegram.yaml",
+    url: "https://raw.githubusercontent.com/klierx/clash-verge-rev-rules/refs/heads/master/ruleset/telegram.yaml",
   },
   media: {
     ...ruleProviderCommon,
     behavior: "classical",
     type: "http",
-    url: "https://raw.githubusercontent.com/klierx/clash-verge-rev-rules/refs/heads/main/ruleset/media.yaml",
+    url: "https://raw.githubusercontent.com/klierx/clash-verge-rev-rules/refs/heads/master/ruleset/media.yaml",
   },
   global: {
     ...ruleProviderCommon,
     behavior: "classical",
     type: "http",
-    url: "https://raw.githubusercontent.com/klierx/clash-verge-rev-rules/refs/heads/main/ruleset/global.yaml",
+    url: "https://raw.githubusercontent.com/klierx/clash-verge-rev-rules/refs/heads/master/ruleset/global.yaml",
   },
 };
 
