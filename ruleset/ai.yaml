@@ -1,0 +1,58 @@
+# 域名关键字匹配
+# 域名后缀匹配
+payload:
+  - DOMAIN,copilot.microsoft.com
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,auth0.com
+  - DOMAIN-SUFFIX,client-api.arkoselabs.com
+  - DOMAIN-SUFFIX,events.statsigapi.net
+  - DOMAIN-SUFFIX,featuregates.org
+  - DOMAIN-SUFFIX,identrust.com
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,intercomcdn.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+  - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-SUFFIX,circumlunar.space
+  - DOMAIN-SUFFIX,vulpes.one
+  - DOMAIN-SUFFIX,mozz.us
+  - DOMAIN-SUFFIX,conman.org
+  - DOMAIN-SUFFIX,bortzmeyer.org
+  - DOMAIN-SUFFIX,groq.com
+  - DOMAIN-SUFFIX,difyai.com
+
+  - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,x.com
+  - DOMAIN-SUFFIX,x.ai
+  - DOMAIN-SUFFIX,meta.ai
+
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-KEYWORD,claude
+  - DOMAIN-KEYWORD,anthropic
+  - DOMAIN-REGEX,anthropic.*
+
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,googleapis.cn
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,signalr.net
+  - DOMAIN-SUFFIX,aistudio.google.com
+  - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,makersuite.google.com
+  - DOMAIN-KEYWORD,google
+  - DOMAIN-REGEX,google.*
+  
+  - DOMAIN-SUFFIX,cursor.sh
+  - DOMAIN-SUFFIX,cursor.com
+  - DOMAIN-SUFFIX,cursorapi.com
+  - DOMAIN-KEYWORD,cursor
+  - DOMAIN-REGEX,cursor.*
+
+  - DOMAIN-SUFFIX,augmentcode.com
+  - DOMAIN-KEYWORD,augmentcode
+  - DOMAIN-REGEX,augmentcode.*
