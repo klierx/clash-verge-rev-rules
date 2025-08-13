@@ -56,3 +56,7 @@ payload:
   - DOMAIN-SUFFIX,augmentcode.com
   - DOMAIN-KEYWORD,augmentcode
   - DOMAIN-REGEX,augmentcode.*
+
+  - DOMAIN-SUFFIX,midjourney.com
+  - DOMAIN-KEYWORD,midjourney
+  - DOMAIN-REGEX,midjourney.*
